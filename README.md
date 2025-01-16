@@ -15,7 +15,7 @@
 
 ## ⚠️ Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+All design credits go to **[Zentry](https://zentry.com/)**
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
